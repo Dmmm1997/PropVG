@@ -76,7 +76,7 @@ The data structure should look like the following:
 `PropVG` utilizes the [BEiT-3](https://github.com/microsoft/unilm/blob/master/beit3/README.md) model as both the backbone and the multi-modality fusion module. The pre-trained weights can be downloaded from [this link](https://github.com/microsoft/unilm/blob/master/beit3/README.md#download-checkpoints). Additionally, you will need to download the [tokenizer](https://github.com/microsoft/unilm/blob/master/beit3/README.md#text-tokenizer) for BEiT-3.
 
 First, create a directory for the pre-trained weights:
-
+ 
 ```
 mkdir pretrain_weights
 ```
