@@ -1,0 +1,16 @@
+data/
+work_dir/
+wandb/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+*.ckpt
+*.h5
+*.onnx
+*.zip
+*.tar.gz
+pretrain_weights/
+.vscode/
+propvg_data/
+detrex/
