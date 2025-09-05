@@ -14,3 +14,9 @@ pretrain_weights/
 .vscode/
 propvg_data/
 detrex/
+
+pretrain_weights
+detrex
+propvg_data
+work_dir
+data
