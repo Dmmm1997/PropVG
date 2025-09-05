@@ -134,6 +134,8 @@ bash tools/dist_test.sh [PATH_TO_CONFIG] [GPU_NUMBER] --load-from [PATH_TO_CHECK
 
 ### Models ZOO
 
+We release the checkpoint and dataset annotation in the huggingface. [CHECKPOINTS](https://huggingface.co/Dmmm997/PropVG), [DATASET](https://huggingface.co/datasets/Dmmm997/PropVG-Data)
+
 | Train Set | Checkpoint|  Referring  Annotations |  Foreground Annotations |
 | --------- | --------- | ----------------------- |  ---------------------  |
 | RefCOCO   | PropVG-refcoco.pth | instances_withid.json | coco_all.json |
