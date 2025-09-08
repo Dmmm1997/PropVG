@@ -189,3 +189,15 @@ bash tools/dist_test.sh configs/rrefcoco/PropVG-rrefcoco.py 1 --load-from /PATH/
 This repository partially builds upon the codebases of [SimVG](https://github.com/Dmmm1997/SimVG/), [BEiT-3](https://github.com/microsoft/unilm/tree/master/beit3) and [SeqTR](https://github.com/seanzhuh/SeqTR).
 
 ## Citation
+```
+@misc{propvg,
+      title={PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination}, 
+      author={Ming Dai and Wenxuan Cheng and Jiedong Zhuang and Jiang-jiang Liu and Hongshen Zhao and Zhenhua Feng and Wankou Yang},
+      year={2025},
+      eprint={2509.04833},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.04833}, 
+}
+```
+
